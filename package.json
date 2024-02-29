@@ -1,6 +1,6 @@
 {
   "name": "@pred/eslint-config-simple",
-  "version": "2.2.2",
+  "version": "0.0.1",
   "private": false,
   "description": "ESLint configuration used by Me.",
   "main": "index.js",
